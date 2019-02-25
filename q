@@ -1,0 +1,34 @@
+* [33m4d1fc0e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Adding oneliner to Readme for rebase example
+[31m|[m * [33m253fb74[m[33m ([m[1;32mmyfeature[m[33m)[m Saying thanks to all my students
+[31m|[m[31m/[m  
+* [33mafbdf46[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Creating gitignore file
+*   [33m9ff884f[m Done resolving merge conflict
+[33m|[m[34m\[m  
+[33m|[m * [33m930792f[m Making changes to simple.html
+* [34m|[m [33m7a49ebf[m Adding conflicting changes (on purpose) for Git example
+[34m|[m[34m/[m  
+*   [33m01c2691[m Mergin changes from simple-changes branch
+[35m|[m[36m\[m  
+[35m|[m * [33me98a29b[m Adding team member to humans.txt
+* [36m|[m [33m6350c26[m Adding instruction on how to contribute
+[36m|[m[36m/[m  
+*   [33m500d5c6[m Merge branch 'add-copyright'
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m76fdd81[m Adding copyright notice to Readme
+[1;31m|[m * [33m39a4c3e[m Adding copyright notice
+[1;31m|[m[1;31m/[m  
+* [33md20f0ac[m Changing title of HTML document
+* [33mc210b7f[m Updating repo with changes from compare section
+* [33m0bbd286[m Addidng introduction text
+* [33m5c6ab3d[m Adding description
+* [33mabba757[m Adding new section: Deployment
+* [33mbc2239c[m Adding README file
+* [33m9471bb1[m Adding several files recursively
+* [33m10ed7de[m Adding new text
+* [33mf1a6c6b[m Adding new text
+*   [33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33me73f914[m Adding Purpose section to README
+[1;33m|[m * [33m34f563b[m Adding README file
+[1;33m|[m[1;33m/[m  
+* [33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
